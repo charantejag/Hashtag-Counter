@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Fibheapnode {
 	
-	Fibheapnode child, fibheapnode, left ,right, parent;    
+    Fibheapnode child, fibheapnode, left ,right, parent;    
     int element;
     int degree;
     public String name;
